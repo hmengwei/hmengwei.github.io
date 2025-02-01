@@ -12,9 +12,12 @@ Office: KT 817
 - [*Presentations of Diagram Categories*](https://journals.calstate.edu/pump/article/view/2256), The PUMP Journal of Undergraduate Research, 3:1–25, 2020.
 
 # Talks
+*Upcoming*
 - May 2025, AWM Research Symposium special session, Madison 
 - Mar 2025, Algebra Seminar, UOregon
 - Mar 2025, Algebra Seminar, UCLA
+
+*Past*
 - Jan 2025, Geometry, Symmetry and Physics seminar, Yale, [*notes*](./talks/GSP.pdf)
 - Oct 2024, AMS Fall Western Sectional Meeting special sesion, Riverside, CA, [*notes*](./talks/AMSFallWestern.pdf)
 - Oct 2024, AMS Fall Eastern Sectional Meeting Albany, NY, [*notes*](./talks/AMSFallEastern.pdf)
