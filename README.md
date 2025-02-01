@@ -12,3 +12,5 @@ Office: KT 817
 - [*Presentations of Diagram Categories*](https://journals.calstate.edu/pump/article/view/2256), The PUMP Journal of Undergraduate Research, 3:1–25, 2020.
 
 # Talks
+*
+-
