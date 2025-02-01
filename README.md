@@ -8,9 +8,14 @@ Email: m.hu@yale.edu
 Office: KT 817
 
 # Research
-* *On Certain Lagrangian Subvarieties in Minimal Resolution of Kleinian Singularities*, coming soon.
+- *On Certain Lagrangian Subvarieties in Minimal Resolution of Kleinian Singularities*, coming soon.
 - [*Presentations of Diagram Categories*](https://journals.calstate.edu/pump/article/view/2256), The PUMP Journal of Undergraduate Research, 3:1–25, 2020.
 
 # Talks
-*
--
+- May 2025, AWM Research Symposium special session, Madison 
+- Mar 2025, Algebra Seminar, UOregon
+- Mar 2025, Algebra Seminar, UCLA
+- Jan 2025, Geometry, Symmetry and Physics seminar, Yale, [*notes*](./talks/GSP)
+- Oct 2024, AMS Fall Western Sectional Meeting special sesion, Riverside, CA, [*notes*](./talks/AMSFallWestern)
+- Oct 2024, AMS Fall Eastern Sectional Meeting Albany, NY, [*notes*](./talks/AMSFallEastern)
+- May 2024, contributed talk at Representation Theory and Related Geometry: Progress and Prospects, UGA, [*notes*](./talks/UGA)
