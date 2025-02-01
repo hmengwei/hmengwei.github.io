@@ -21,7 +21,7 @@ Office: KT 817
 
 *Past*
 - Jan 2025, Geometry, Symmetry and Physics seminar, Yale
-- Oct 2024, AMS Fall Western Sectional Meeting special sesion, Riverside, CA
-- Oct 2024, AMS Fall Eastern Sectional Meeting Albany, NY
+- Oct 2024, AMS Fall Western Sectional Meeting special sesion, UC Riverside
+- Oct 2024, AMS Fall Eastern Sectional Meeting special session, UAlbany
 - Sep 2024, Women in Mathematics in New England, *student talk and graduate school panelist*, Smith College
 - May 2024, Representation Theory and Related Geometry: Progress and Prospects, *contributed talk*, UGA
