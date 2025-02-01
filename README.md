@@ -10,8 +10,8 @@ Email: m.hu@yale.edu
 Office: KT 817
 
 # Research
-- *On Certain Lagrangian Subvarieties in Minimal Resolution of Kleinian Singularities*, coming soon.
-- [*Presentations of Diagram Categories*](https://journals.calstate.edu/pump/article/view/2256), The PUMP Journal of Undergraduate Research, 3:1–25, 2020.
+- On Certain Lagrangian Subvarieties in Minimal Resolution of Kleinian Singularities, *coming soon*.
+- [Presentations of Diagram Categories](https://journals.calstate.edu/pump/article/view/2256), *The PUMP Journal of Undergraduate Research, 3:1–25, 2020*.
 
 # Talks
 *Upcoming*
