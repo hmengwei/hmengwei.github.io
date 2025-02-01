@@ -23,5 +23,5 @@ Office: KT 817
 - Jan 2025, Geometry, Symmetry and Physics seminar, Yale, [*notes*](./talks/GSP.pdf)
 - Oct 2024, AMS Fall Western Sectional Meeting special sesion, Riverside, CA, [*notes*](./talks/AMSFallWestern.pdf)
 - Oct 2024, AMS Fall Eastern Sectional Meeting Albany, NY, [*notes*](./talks/AMSFallEastern.pdf)
-- Sep 2024, Women in Mathematics in New England, *student talks and graduate school panelist*, Smith College
+- Sep 2024, Women in Mathematics in New England, *student talk and graduate school panelist*, Smith College
 - May 2024, Representation Theory and Related Geometry: Progress and Prospects, *contributed talk*, UGA, [*notes*](./talks/UGA.pdf)
