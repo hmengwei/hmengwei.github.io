@@ -15,13 +15,13 @@ Office: KT 817
 
 # Talks
 *Upcoming*
-- May 2025, AWM Research Symposium special session, UW Madison
+- May 2025, AWM Research Symposium Special Session, UW Madison
 - Mar 2025, Algebra Seminar, UOregon
 - Mar 2025, Algebra Seminar, UCLA
 
 *Past*
 - Jan 2025, Geometry, Symmetry, and Physics Seminar, Yale
-- Oct 2024, AMS Fall Western Sectional Meeting special sesion, UC Riverside
-- Oct 2024, AMS Fall Eastern Sectional Meeting special session, UAlbany
+- Oct 2024, AMS Fall Western Sectional Meeting Special Session, UC Riverside
+- Oct 2024, AMS Fall Eastern Sectional Meeting Special Session, UAlbany
 - Sep 2024, Women in Mathematics in New England, *student talk and graduate school panelist*, Smith College
 - May 2024, Representation Theory and Related Geometry: Progress and Prospects, *contributed talk*, UGA
