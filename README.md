@@ -20,8 +20,8 @@ Office: KT 817
 - Mar 2025, Algebra Seminar, UCLA
 
 *Past*
-- Jan 2025, Geometry, Symmetry and Physics seminar, Yale
-- Oct 2024, AMS Fall Western Sectional Meeting special sesion, UCR
+- Jan 2025, Geometry, Symmetry and Physics Seminar, Yale
+- Oct 2024, AMS Fall Western Sectional Meeting special sesion, UC Riverside
 - Oct 2024, AMS Fall Eastern Sectional Meeting special session, UAlbany
 - Sep 2024, Women in Mathematics in New England, *student talk and graduate school panelist*, Smith College
 - May 2024, Representation Theory and Related Geometry: Progress and Prospects, *contributed talk*, UGA
