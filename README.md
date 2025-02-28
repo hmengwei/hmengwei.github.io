@@ -1,13 +1,22 @@
-[comment]: <> (Align center)
-<p  align="center" width="100%"> 
-     <img width="33%" src="./pictures/photo.png">
-</p>
 
-Hello! I am a 5th-year math graduate student at [Yale](https://math.yale.edu/). I study geometric representation theory. My advisor is [Prof. Ivan Losev](https://gauss.math.yale.edu/~il282/). I am interested in Harish-Chandra modules, deformation quantizations, Nakajima quiver varieties, and nilpotent orbits.
+<img align="right" width="25%" src="./pictures/photo.png" alt="My Image">
+<br/><br/>
+
+Hello! I am a 5th-year math graduate student at [Yale](https://math.yale.edu/). 
+
+I study geometric representation theory. My advisor is [Prof. Ivan Losev](https://gauss.math.yale.edu/~il282/). I am interested in Harish-Chandra modules, deformation quantizations, Nakajima quiver varieties, and nilpotent orbits.
+
+<!---Here ia my [CV]().-->
 
 Email: m.hu@yale.edu
 
 Office: KT 817
+
+<!---**Upcoming traveling:**-->
+
+<br/><br/>
+<!---<br/><br/>-->
+
 
 # Research
 - On Certain Lagrangian Subvarieties in Minimal Resolutions of Kleinian Singularities, *coming soon*.
@@ -15,9 +24,9 @@ Office: KT 817
 
 # Talks
 *Upcoming*
-- May 2025, AWM Research Symposium Special Session, UW Madison
-- Mar 2025, Algebra Seminar, UOregon
-- Mar 2025, Algebra Seminar, UCLA
+- 03/10/25, Algebra Seminar, UCLA
+- 03/13/25, Algebra Seminar, UOregon
+- 05/16-05/18/25, AWM Research Symposium Special Session, UW Madison
 
 *Past*
 - Jan 2025, Geometry, Symmetry, and Physics Seminar, Yale
