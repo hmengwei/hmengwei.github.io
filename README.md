@@ -1,6 +1,6 @@
-
-<img align="right" width="25%" src="./pictures/photo.png" alt="My Image">
-<br/><br/>
+<div class="photo-div">
+<img class="photo-img" src="./pictures/photo.png" alt="My Image">
+</div>
 
 Hello! I am a 5th-year math graduate student at [Yale](https://math.yale.edu/). 
 
