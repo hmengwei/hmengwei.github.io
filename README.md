@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <div class="photo-div">
 <img class="photo-img" src="./pictures/photo.png" alt="My Image">
 </div>
