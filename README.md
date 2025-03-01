@@ -3,6 +3,8 @@
 <img class="photo-img" src="./pictures/photo.png" alt="My Image">
 </div>
 
+<br/><br/>
+
 Hello! I am a 5th-year math graduate student at [Yale](https://math.yale.edu/). 
 
 I study geometric representation theory. My advisor is [Prof. Ivan Losev](https://gauss.math.yale.edu/~il282/). I am interested in Harish-Chandra modules, deformation quantizations, Nakajima quiver varieties, and nilpotent orbits.
