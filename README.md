@@ -32,7 +32,7 @@ Office: KT 817
 - 05/16-05/18/25, AWM Research Symposium Special Session, UW Madison
 
 *Past*
-- Jan 2025, Geometry, Symmetry, and Physics Seminar, Yale
+- Jan 2025, Geometry, Symmetry and Physics Seminar, Yale
 - Oct 2024, AMS Fall Western Sectional Meeting Special Session, UC Riverside
 - Oct 2024, AMS Fall Eastern Sectional Meeting Special Session, UAlbany
 - Sep 2024, Women in Mathematics in New England, <!---*student talk and graduate school panelist*,--> Smith College
