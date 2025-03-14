@@ -17,7 +17,7 @@ Office: KT 817
 
 <!---**Upcoming traveling:**-->
 
-<br/><br/>
+<!---<br/><br/>-->
 <!---<br/><br/>-->
 
 # Research
