@@ -17,9 +17,8 @@ Office: KT 817
 
 <!---**Upcoming traveling:**-->
 
-<br/><br/>
 <!---<br/><br/>-->
-
+<!---<br/><br/>-->
 
 # Research
 - On Certain Lagrangian Subvarieties in Minimal Resolutions of Kleinian Singularities, *coming soon*.
