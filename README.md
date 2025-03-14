@@ -14,8 +14,8 @@ I study geometric representation theory. I am interested in Harish-Chandra modul
 Email: m.hu@yale.edu
 
 Office: KT 817
+<br/>
 <!---**Upcoming traveling:**-->
-<!---<br/>-->
 <!---<br/><br/>-->
 
 # Research
