@@ -3,7 +3,7 @@
 <img class="photo-img" src="./pictures/photo.png" alt="My Image">
 </div>
 
-<br/><br/>
+<br/>
 
 Hello! I am a 5th-year math graduate student at [Yale](https://math.yale.edu/). My advisor is Prof. [Ivan Losev](https://gauss.math.yale.edu/~il282/).
 
@@ -14,10 +14,8 @@ I study geometric representation theory. I am interested in Harish-Chandra modul
 Email: m.hu@yale.edu
 
 Office: KT 817
-
 <!---**Upcoming traveling:**-->
-
-<br/><br/>
+<br/>
 <!---<br/><br/>-->
 
 # Research
