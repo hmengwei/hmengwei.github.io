@@ -5,9 +5,9 @@
 
 <br/><br/>
 
-Hello! I am a 5th-year math graduate student at [Yale](https://math.yale.edu/). 
+Hello! I am a 5th-year math graduate student at [Yale](https://math.yale.edu/). My advisor is [Prof. Ivan Losev](https://gauss.math.yale.edu/~il282/).
 
-I study geometric representation theory. My advisor is [Prof. Ivan Losev](https://gauss.math.yale.edu/~il282/). I am interested in Harish-Chandra modules, deformation quantizations, Nakajima quiver varieties, and nilpotent orbits.
+I study geometric representation theory. I am interested in Harish-Chandra modules, deformation quantizations, Nakajima quiver varieties, and nilpotent orbits.
 
 <!---Here ia my [CV]().-->
 
@@ -27,11 +27,11 @@ Office: KT 817
 
 # Talks
 *Upcoming*
-- 03/10/25, Algebra Seminar, UCLA
-- 03/13/25, Algebra Seminar, UOregon
 - 05/16-05/18/25, AWM Research Symposium Special Session, UW Madison
 
 *Past*
+- Mar 2025, Algebra Seminar, UOregon
+- Mar 2025, Algebra Seminar, UCLA
 - Jan 2025, Geometry, Symmetry and Physics Seminar, Yale
 - Oct 2024, AMS Fall Western Sectional Meeting Special Session, UC Riverside
 - Oct 2024, AMS Fall Eastern Sectional Meeting Special Session, UAlbany
