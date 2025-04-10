@@ -8,12 +8,15 @@ Hello! I am a 5th-year math graduate student at [Yale](https://math.yale.edu/). 
 
 I study geometric representation theory. I am interested in Harish-Chandra modules, deformation quantizations, Nakajima quiver varieties, and nilpotent orbits.
 
-<!---Here ia my [CV]().-->
-
 Email: m.hu@yale.edu
 
 Office: KT 817
+
+<!---Here ia my [CV]().-->
+**I am on the job market for positions starting at Fall 2026.**
+
 <br/>
+
 <!---**Upcoming traveling:**-->
 <!---<br/><br/>-->
 
