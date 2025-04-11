@@ -12,9 +12,8 @@ Email: m.hu@yale.edu
 Office: KT 817
 
 <!---Here ia my [CV]().-->
-**I am on the job market for positions starting at Fall 2026.**
 
-<br/>
+**I am on the job market for positions starting at Fall 2026.**
 
 <!---**Upcoming traveling:**-->
 <!---<br/><br/>-->
