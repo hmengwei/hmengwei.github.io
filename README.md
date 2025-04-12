@@ -13,7 +13,7 @@ Office: KT 817
 
 <!---Here ia my [CV]().-->
 
-**I am on the job market for positions starting at Fall 2026.**
+**\* I am on the job market for positions starting at Fall 2026.**
 
 <!---**Upcoming traveling:**-->
 <!---<br/><br/>-->
