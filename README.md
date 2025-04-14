@@ -3,7 +3,7 @@
 <img class="photo-img" src="./pictures/picture.png" alt="My Image">
 </div>
 
-Hello! I am a 5th-year math graduate student at [Yale](https://math.yale.edu/). My advisor is Prof. [Ivan Losev](https://gauss.math.yale.edu/~il282/).
+Hello! I am a 5th-year math graduate student at <a href="https://math.yale.edu/" target="_blank">Yale</a>. My advisor is Prof. <a href="https://gauss.math.yale.edu/~il282/" target="_blank">Ivan Losev</a>.
 
 I study geometric representation theory. I am interested in Harish-Chandra modules, deformation quantizations, Nakajima quiver varieties, and nilpotent orbits.
 
@@ -19,8 +19,8 @@ Office: KT 817
 <!---<br/><br/>-->
 
 # Research
-- [On Certain Lagrangian Subvarieties in Minimal Resolutions of Kleinian Singularities](https://arxiv.org/abs/2504.08717), arXiv: 2504.08717.
-- [Presentations of Diagram Categories](https://journals.calstate.edu/pump/article/view/2256), *PUMP J. Undergrad. Res. 3 (2020), 1–25*.
+- <a href="https://arxiv.org/abs/2504.08717" target="_blank">On Certain Lagrangian Subvarieties in Minimal Resolutions of Kleinian Singularities</a>, arXiv: 2504.08717.
+- <a href="https://journals.calstate.edu/pump/article/view/2256" target="_blank">Presentations of Diagram Categories</a>, *PUMP J. Undergrad. Res. 3 (2020), 1–25*.
 
 # Talks
 *Upcoming*
