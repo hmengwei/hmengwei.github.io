@@ -18,7 +18,7 @@ Email: m.hu@yale.edu
 - <a href="https://arxiv.org/abs/2504.08717" target="_blank">On Certain Lagrangian Subvarieties in Minimal Resolutions of Kleinian Singularities</a>, arXiv: 2504.08717.
 - <a href="https://journals.calstate.edu/pump/article/view/2256" target="_blank">Presentations of Diagram Categories</a>, *PUMP J. Undergrad. Res. 3 (2020), 1–25*.
 
-## Upcoming Travels
+## Travels
 <!----*Upcoming*-->
 <!----- May 2025, AWM Research Symposium Special Session, UW-Madison-->
 - May 2-4, <a href="https://www.math.lsu.edu/~pramod/selie/15/" target="_blank" style="color : black;"><u>Southeastern Lie Theory Workshop XV</u></a>, College of Charleston, SC
