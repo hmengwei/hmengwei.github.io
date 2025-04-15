@@ -9,16 +9,14 @@ I study geometric representation theory. I am interested in Harish-Chandra modul
 
 Email: m.hu@yale.edu
 
-Office: KT 817
-
 <!---Here ia my [CV]().-->
 
 **\* I am on the job market for positions starting at Fall 2026.**
 
-#### Upcoming traveling:
-- May 2-4, <a href="https://www.math.lsu.edu/~pramod/selie/15/" target="_blank" style="color : black;">Southeastern Lie Theory Workshop XV</a>, College of Charleston, SC
-- May 16-18, Talk at the <a href="https://sites.google.com/site/meeseongim/may_2025-conf-uwm?authuser=0" target="_blank" style="color : black;">AWM Research Symposium Special Session</a>, University of Wisconsin-Madison
-- June 3-7, <a href="https://sites.google.com/view/casl2025-categorification/" target="_blank" style="color : black;">Categorification and Symplectic Duality Workshop</a>, Northeastern University
+Upcoming traveling:
+- May 2-4, <a href="https://www.math.lsu.edu/~pramod/selie/15/" target="_blank" style="color : black;"><u>Southeastern Lie Theory Workshop XV</u></a>, College of Charleston, SC
+- May 16-18, Talk at the <a href="https://sites.google.com/site/meeseongim/may_2025-conf-uwm?authuser=0" target="_blank" style="color : black;"><u>AWM Research Symposium Special Session</u></a>, University of Wisconsin-Madison
+- June 3-7, <a href="https://sites.google.com/view/casl2025-categorification/" target="_blank" style="color : black;"><u>Categorification and Symplectic Duality Workshop</u></a>, Northeastern University
 <!---- 08/18-08/22/25, WARTHOG, UO-->
 
 <!---<br/><br/>-->
