@@ -12,24 +12,22 @@ Email: m.hu@yale.edu
 <!---Here ia my [CV]().-->
 
 **\* I am on the job market for positions starting at Fall 2026.**
-
-Upcoming traveling:
-- May 2-4, <a href="https://www.math.lsu.edu/~pramod/selie/15/" target="_blank" style="color : black;"><u>Southeastern Lie Theory Workshop XV</u></a>, College of Charleston, SC
-- May 16-18, Talk at the <a href="https://sites.google.com/site/meeseongim/may_2025-conf-uwm?authuser=0" target="_blank" style="color : black;"><u>AWM Research Symposium Special Session</u></a>, University of Wisconsin-Madison
-- June 3-7, <a href="https://sites.google.com/view/casl2025-categorification/" target="_blank" style="color : black;"><u>Categorification and Symplectic Duality Workshop</u></a>, Northeastern University
-<!---- 08/18-08/22/25, WARTHOG, UO-->
-
 <!---<br/><br/>-->
 
 ## Research
 - <a href="https://arxiv.org/abs/2504.08717" target="_blank">On Certain Lagrangian Subvarieties in Minimal Resolutions of Kleinian Singularities</a>, arXiv: 2504.08717.
 - <a href="https://journals.calstate.edu/pump/article/view/2256" target="_blank">Presentations of Diagram Categories</a>, *PUMP J. Undergrad. Res. 3 (2020), 1–25*.
 
-## Talks
+## Travels
 <!----*Upcoming*-->
 <!----- May 2025, AWM Research Symposium Special Session, UW-Madison-->
+- May 2-4, <a href="https://www.math.lsu.edu/~pramod/selie/15/" target="_blank" style="color : black;"><u>Southeastern Lie Theory Workshop XV</u></a>, College of Charleston, SC
+- May 16-18, Talk at the <a href="https://sites.google.com/site/meeseongim/may_2025-conf-uwm?authuser=0" target="_blank" style="color : black;"><u>AWM Research Symposium Special Session</u></a>, University of Wisconsin-Madison
+- June 3-7, <a href="https://sites.google.com/view/casl2025-categorification/" target="_blank" style="color : black;"><u>Categorification and Symplectic Duality Workshop</u></a>, Northeastern University
+<!---- 08/18-08/22/25, WARTHOG, UO-->
 
-<!----Past-->
+## Talks
+<!---*Past*-->
 - Mar 2025, Algebra Seminar, UO
 - Mar 2025, Algebra Seminar, UCLA
 - Jan 2025, Geometry, Symmetry and Physics Seminar, Yale
