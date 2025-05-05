@@ -27,7 +27,7 @@ Email: m.hu@yale.edu
 
 ## Talks
 <!---*Past*-->
-- May 2025, Southeastern Lie Theory Workshop XV, CofC, <a href="./talks/Kleinain singularities_CofC.pdf" target="_blank">Slides</a>
+- May 2025, Southeastern Lie Theory Workshop XV, CofC, <a href="./talks/Kleinain_singularities_CofC.pdf" target="_blank">Slides</a>
 - Mar 2025, Algebra Seminar, UO
 - Mar 2025, Algebra Seminar, UCLA
 - Jan 2025, Geometry, Symmetry and Physics Seminar, Yale
