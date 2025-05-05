@@ -21,13 +21,13 @@ Email: m.hu@yale.edu
 ## Travels
 <!----*Upcoming*-->
 <!----- May 2025, AWM Research Symposium Special Session, UW-Madison-->
-- May 2-4, Talk at the <a href="https://www.math.lsu.edu/~pramod/selie/15/" target="_blank" style="color : black;"><u>Southeastern Lie Theory Workshop XV</u></a>, College of Charleston
 - May 16-18, Talk at the <a href="https://sites.google.com/site/meeseongim/may_2025-conf-uwm?authuser=0" target="_blank" style="color : black;"><u>AWM Research Symposium Special Session</u></a>, University of Wisconsin-Madison
 - June 3-7, <a href="https://sites.google.com/view/casl2025-categorification/" target="_blank" style="color : black;"><u>Categorification and Symplectic Duality Workshop</u></a>, Northeastern University
 <!---- 08/18-08/22/25, WARTHOG, UO-->
 
 ## Talks
 <!---*Past*-->
+- May 2025, Southeastern Lie Theory Workshop XV, CofC, <a href="/talks/Kleinain singularities_CofC.pdf" target="_blank" style="color : black;"><u>slides</u></a>
 - Mar 2025, Algebra Seminar, UO
 - Mar 2025, Algebra Seminar, UCLA
 - Jan 2025, Geometry, Symmetry and Physics Seminar, Yale
