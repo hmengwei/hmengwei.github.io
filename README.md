@@ -5,7 +5,7 @@
 
 Hello! I am a 5th-year math graduate student at <a href="https://math.yale.edu/" target="_blank">Yale</a>. My advisor is Prof. <a href="https://gauss.math.yale.edu/~il282/" target="_blank">Ivan Losev</a>.
 
-I study geometric representation theory. I am interested in Harish-Chandra modules, deformation quantizations, Nakajima quiver varieties, and nilpotent orbits.
+I study geometric representation theory. I am interested in Harish-Chandra modules, deformation quantizations, Nakajima quiver varieties nilpotent orbits, and symmetric pairs.
 
 Email: m.hu@yale.edu
 
