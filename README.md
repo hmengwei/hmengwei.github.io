@@ -28,7 +28,7 @@ Email: m.hu@yale.edu
 <!---*Past*-->
 - May 2025, AWM Research Symposium Special Session, UW-Madison, <a href="talks/Kleinian_singularities_UW-Madison.pdf" target="_blank">Slides</a>
 - May 2025, Southeastern Lie Theory Workshop XV, CofC, <a href="talks/Kleinian_singularities_CofC.pdf" target="_blank">Slides</a>
-- Mar 2025, Algebra Seminar, UO
+- Mar 2025, Algebra Seminar, UO, <a href="talks/Kleinian_singularities_UO.pdf" target="_blank">Notes</a>
 - Mar 2025, Algebra Seminar, UCLA
 - Jan 2025, Geometry, Symmetry and Physics Seminar, Yale, <a href="talks/Kleinian_singularities_Yale.pdf" target="_blank">Notes</a>
 - Oct 2024, AMS Fall Western Sectional Meeting Special Session, UCR
