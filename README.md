@@ -9,7 +9,7 @@ I study geometric representation theory. I am interested in symmetric pairs and 
 
 Email: m.hu@yale.edu
 
-Here is my <a href="CV/CV_Mengwei.pdf" target="_blank">**CV**</a>.
+Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 
 **\* I am on the job market for positions starting at Fall 2026.**
 <!---<br/><br/>-->
