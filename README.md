@@ -15,7 +15,7 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 <!---<br/><br/>-->
 
 ## Research
-- <a href="https://arxiv.org/abs/2504.08717" target="_blank">On Certain Lagrangian Subvarieties in Minimal Resolutions of Kleinian Singularities</a>, arXiv: 2504.08717.
+- <a href="https://arxiv.org/abs/2504.08717" target="_blank">On Certain Lagrangian Subvarieties in Minimal Resolutions of Kleinian Singularities</a>, arXiv: 2504.08717, <a href="talks/Kleinian_singularities_poster.pdf" target="">poster</a>
 - <a href="https://journals.calstate.edu/pump/article/view/2256" target="_blank">Presentations of Diagram Categories</a>, *PUMP J. Undergrad. Res. 3 (2020), 1–25*.
 
 ## Travels
@@ -23,9 +23,9 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 - July 28-31, <a href="https://sites.google.com/view/7cmu-conference/home?authuser=0" target="_blank" style="color : black;"><u>7th Canada-Mexico-US Meeting</u></a>, University of Southern California
 - August 18-22, <a href="https://pages.uoregon.edu/belias/WARTHOG/BraidVar/" target="_blank" style="color : black;"><u>WARTHOG 2025: Cluster Algebras and Braid Varieties</u></a>, University of Oregon
 
-## Talks and Presentations
+## Talks
 <!---*Past*-->
-- Jun 2025, Categorification and Symplectic Duality Workshop, NEU, <a href="talks/Kleinian_singularities_poster_NEU.pdf" target="">Poster</a>
+<!---* - Jun 2025, Categorification and Symplectic Duality Workshop, NEU, <a href="talks/Kleinian_singularities_poster_NEU.pdf" target="">Poster</a>*-->
 - May 2025, AWM Research Symposium Special Session, UW-Madison, <a href="talks/Kleinian_singularities_UW-Madison.pdf" target="">Slides</a>
 - May 2025, Southeastern Lie Theory Workshop XV, CofC, <a href="talks/Kleinian_singularities_CofC.pdf">Slides</a>
 - Mar 2025, Algebra Seminar, UO, <a href="talks/Kleinian_singularities_UO.pdf">Notes</a>
