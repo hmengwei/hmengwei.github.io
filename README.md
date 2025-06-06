@@ -20,12 +20,12 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 
 ## Travels
 <!----*Upcoming*-->
-- June 3-7, Poster at the <a href="https://sites.google.com/view/casl2025-categorification/" target="_blank" style="color : black;"><u>Categorification and Symplectic Duality Workshop</u></a>, Northeastern University
 - July 28-31, <a href="https://sites.google.com/view/7cmu-conference/home?authuser=0" target="_blank" style="color : black;"><u>7th Canada-Mexico-US Meeting</u></a>, University of Southern California
 - August 18-22, <a href="https://pages.uoregon.edu/belias/WARTHOG/BraidVar/" target="_blank" style="color : black;"><u>WARTHOG 2025: Cluster Algebras and Braid Varieties</u></a>, University of Oregon
 
-## Talks
+## Talks and Presentations
 <!---*Past*-->
+- Jun 2025, Categorification and Symplectic Duality Workshop, NEU, <a href="talks/Kleinian_singularities_poster_NEU.pdf" target="">Poster</a>
 - May 2025, AWM Research Symposium Special Session, UW-Madison, <a href="talks/Kleinian_singularities_UW-Madison.pdf" target="">Slides</a>
 - May 2025, Southeastern Lie Theory Workshop XV, CofC, <a href="talks/Kleinian_singularities_CofC.pdf">Slides</a>
 - Mar 2025, Algebra Seminar, UO, <a href="talks/Kleinian_singularities_UO.pdf">Notes</a>
