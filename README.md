@@ -20,9 +20,9 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 
 ## Travels
 <!----*Upcoming*-->
-- July 28-31, <a href="https://sites.google.com/view/7cmu-conference/home?authuser=0" target="_blank" style="color : black;"><u>7th Canada-Mexico-US Meeting</u></a>, University of Southern California
-- August 18-22, <a href="https://pages.uoregon.edu/belias/WARTHOG/BraidVar/" target="_blank" style="color : black;"><u>WARTHOG 2025: Cluster Algebras and Braid Varieties</u></a>, University of Oregon
-<!---* - Sep 8, 2025 Talk at the Algebra Seminar, University at Buffalo*-->
+- 07/28-07/31/2025, <a href="https://sites.google.com/view/7cmu-conference/home?authuser=0" target="_blank" style="color : black;"><u>7th Canada-Mexico-US Meeting</u></a>, University of Southern California
+- 08/18-08/22/2025, <a href="https://pages.uoregon.edu/belias/WARTHOG/BraidVar/" target="_blank" style="color : black;"><u>WARTHOG 2025: Cluster Algebras and Braid Varieties</u></a>, University of Oregon
+- 09/08/2025, Algebra Seminar, University at Buffalo
 
 ## Talks
 <!---*Past*-->
