@@ -3,7 +3,7 @@
 <img class="photo-img" src="./pictures/picture.png" alt="My Image">
 </div>
 
-Hello! I am a 5th-year math graduate student at <a href="https://math.yale.edu/" target="_blank">Yale</a>. My advisor is Prof. <a href="https://gauss.math.yale.edu/~il282/" target="_blank">Ivan Losev</a>.
+Hello! I am a math graduate student at <a href="https://math.yale.edu/" target="_blank">Yale</a>. My advisor is Prof. <a href="https://gauss.math.yale.edu/~il282/" target="_blank">Ivan Losev</a>.
 
 I study geometric representation theory. I am interested in symmetric pairs and nilpotent orbits, Nakajima quiver varieties, deformation quantizations and Harish-Chandra (g,K)-modules.
 
