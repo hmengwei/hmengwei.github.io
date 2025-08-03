@@ -11,7 +11,7 @@ Email: m.hu@yale.edu
 
 Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 
-**\* I am on the job market for positions starting at Fall 2026.**
+**\* I am on the job market for in Fall 2025.**
 <!---<br/><br/>-->
 
 ## Research
@@ -20,7 +20,6 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 
 ## Travels
 <!----*Upcoming*-->
-- 07/28-07/31/2025, <a href="https://sites.google.com/view/7cmu-conference/home?authuser=0" target="_blank" style="color : black;"><u>7th Canada-Mexico-US Meeting</u></a>, University of Southern California
 - 08/18-08/22/2025, <a href="https://pages.uoregon.edu/belias/WARTHOG/BraidVar/" target="_blank" style="color : black;"><u>WARTHOG 2025: Cluster Algebras and Braid Varieties</u></a>, University of Oregon
 - 09/08/2025, <a href="https://www.acsu.buffalo.edu/~achirvas/alg/algebraseminar.html" target="_blank" style="color : black;"><u>Algebra Seminar</u></a>, University at Buffalo
 - 09/12/2025, <a href="https://www.joshpollitz.com/algebra-seminar" target="_blank" style="color : black;"><u>Algebra Seminar</u></a>, Syracuse University
