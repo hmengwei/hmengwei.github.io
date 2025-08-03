@@ -11,7 +11,7 @@ Email: m.hu@yale.edu
 
 Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 
-**\* I am on the job market for in Fall 2025.**
+**\* I am on the job market in Fall 2025.**
 <!---<br/><br/>-->
 
 ## Research
