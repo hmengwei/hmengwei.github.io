@@ -23,6 +23,7 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 - 08/18-08/22/2025, <a href="https://pages.uoregon.edu/belias/WARTHOG/BraidVar/" target="_blank" style="color : black;"><u>WARTHOG 2025: Cluster Algebras and Braid Varieties</u></a>, University of Oregon
 - 09/08/2025, <a href="https://www.acsu.buffalo.edu/~achirvas/alg/algebraseminar.html" target="_blank" style="color : black;"><u>Algebra Seminar</u></a>, University at Buffalo
 - 09/12/2025, <a href="https://www.joshpollitz.com/algebra-seminar" target="_blank" style="color : black;"><u>Algebra Seminar</u></a>, Syracuse University
+- 09/30/2025, <a href="https://www.joshpollitz.com/algebra-seminar" target="_blank" style="color : black;"><u>Topology Seminar</u></a>, Johns Hopkins University
 
 ## Talks
 <!---*Past*-->
