@@ -20,14 +20,13 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 
 ## Travels
 <!----*Upcoming*-->
-- 08/18-08/22/2025, <a href="https://pages.uoregon.edu/belias/WARTHOG/BraidVar/" target="_blank" style="color : black;"><u>WARTHOG 2025: Cluster Algebras and Braid Varieties</u></a>, University of Oregon
 - 09/08/2025, <a href="https://www.acsu.buffalo.edu/~achirvas/alg/algebraseminar.html" target="_blank" style="color : black;"><u>Algebra Seminar</u></a>, University at Buffalo
 - 09/12/2025, <a href="https://www.joshpollitz.com/algebra-seminar" target="_blank" style="color : black;"><u>Algebra Seminar</u></a>, Syracuse University
 - 09/30/2025, <a href="https://sites.google.com/view/jhutopology/fall-2025?authuser=0" target="_blank" style="color : black;"><u>Topology Seminar</u></a>, Johns Hopkins University
+- 10/06/2025, Algebra Seminar, University of Georgia
 
 ## Talks
 <!---*Past*-->
-<!---* - Jun 2025, Categorification and Symplectic Duality Workshop, NEU, <a href="talks/Kleinian_singularities_poster_NEU.pdf" target="">Poster</a>*-->
 - May 2025, AWM Research Symposium Special Session, UW-Madison, <a href="talks/Kleinian_singularities_UW-Madison.pdf" target="">Slides</a>
 - May 2025, Southeastern Lie Theory Workshop XV, CofC, <a href="talks/Kleinian_singularities_CofC.pdf">Slides</a>
 - Mar 2025, Algebra Seminar, UO, <a href="talks/Kleinian_singularities_UO.pdf">Notes</a>
