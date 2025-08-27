@@ -24,6 +24,8 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 - 09/12/2025, <a href="https://www.joshpollitz.com/algebra-seminar" target="_blank" style="color : black;"><u>Algebra Seminar</u></a>, Syracuse University
 - 09/30/2025, <a href="https://sites.google.com/view/jhutopology/fall-2025?authuser=0" target="_blank" style="color : black;"><u>Topology Seminar</u></a>, Johns Hopkins University
 - 10/06/2025, Algebra Seminar, University of Georgia
+<!----*Oct 2-3, 2025, Research Visit, University of Texas, Austin*-->
+<!----*Oct 18-19, 2025, AMS Fall Central Sectional Meeting Special Session, St. Louis University*-->
 
 ## Talks
 <!---*Past*-->
