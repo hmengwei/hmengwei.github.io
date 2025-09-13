@@ -20,16 +20,16 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 
 ## Travels
 <!----*Upcoming*-->
-- 09/08/2025, <a href="https://www.acsu.buffalo.edu/~achirvas/alg/algebraseminar.html" target="_blank" style="color : black;"><u>Algebra Seminar</u></a>, University at Buffalo
-- 09/12/2025, <a href="https://www.joshpollitz.com/algebra-seminar" target="_blank" style="color : black;"><u>Algebra Seminar</u></a>, Syracuse University
 - 09/30/2025, <a href="https://sites.google.com/view/jhutopology/fall-2025?authuser=0" target="_blank" style="color : black;"><u>Topology Seminar</u></a>, Johns Hopkins University
+- 10/02-10/03/2025, University of Texas, Austin
 - 10/06/25, Algebra Seminar, University of Georgia
-<!----*10/02-10/03/2025, Research Visit, University of Texas, Austin*-->
 <!----*10/18-10/19/2025, AMS Fall Central Sectional Meeting Special Session, St. Louis University*-->
 <!----*10/23/2025, <a href="https://sites.google.com/view/rtg-northeastern/gprt-seminar" style="color : black;"><u>GPRT Seminar</u></a>, Northeastern University*-->
 
 ## Talks
 <!---*Past*-->
+- Sep 2025, <a href="https://www.joshpollitz.com/algebra-seminar" target="_blank" style="color : black;">Algebra Seminar</a>, SU
+- Sep 2025, <a href="https://www.acsu.buffalo.edu/~achirvas/alg/algebraseminar.html" target="_blank" style="color : black;">Algebra Seminar</a>, UB
 - May 2025, AWM Research Symposium Special Session, UW-Madison, <a href="talks/Kleinian_singularities_UW-Madison.pdf" target="">Slides</a>
 - May 2025, Southeastern Lie Theory Workshop XV, CofC, <a href="talks/Kleinian_singularities_CofC.pdf">Slides</a>
 - Mar 2025, Algebra Seminar, UO, <a href="talks/Kleinian_singularities_UO.pdf">Notes</a>
