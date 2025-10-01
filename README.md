@@ -30,7 +30,7 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 <!---*Past*-->
 - Sep 2025, <a href="https://www.joshpollitz.com/algebra-seminar" target="_blank" style="color : black;">Algebra Seminar</a>, SU
 - Sep 2025, <a href="https://www.acsu.buffalo.edu/~achirvas/alg/algebraseminar.html" target="_blank" style="color : black;">Algebra Seminar</a>, UB
-- May 2025, AWM Research Symposium Special Session, UW-Madison, <a href="talks/Kleinian_singularities_UW-Madison.pdf" target="">Slides</a>
+- May 2025, <a href="https://sites.google.com/site/meeseongim/may_2025-conf-uwm?authuser=0" target="_blank" style="color : black;">AWM Research Symposium Special Session</a>, UW-Madison, <a href="talks/Kleinian_singularities_UW-Madison.pdf" target="">Slides</a>
 - May 2025, Southeastern Lie Theory Workshop XV, CofC, <a href="talks/Kleinian_singularities_CofC.pdf">Slides</a>
 - Mar 2025, Algebra Seminar, UO, <a href="talks/Kleinian_singularities_UO.pdf">Notes</a>
 - Mar 2025, Algebra Seminar, UCLA, <a href="talks/Kleinian_singularities_UCLA.pdf">Notes</a>
