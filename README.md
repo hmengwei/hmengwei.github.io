@@ -15,7 +15,7 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 <!---<br/><br/>-->
 
 ## Research
-- <a href="https://arxiv.org/abs/2504.08717" target="_blank">On Certain Lagrangian Subvarieties in Minimal Resolutions of Kleinian Singularities</a>, Submitted, arXiv: 2504.08717, <a href="talks/Kleinian_singularities_poster.pdf" target="">poster</a>
+- <a href="https://arxiv.org/abs/2504.08717" target="_blank">On Certain Lagrangian Subvarieties in Minimal Resolutions of Kleinian Singularities</a>, submitted, arXiv: 2504.08717, <a href="talks/Kleinian_singularities_poster.pdf" target="">poster</a>
 - <a href="https://journals.calstate.edu/pump/article/view/2256" target="_blank">Presentations of Diagram Categories</a>, *PUMP J. Undergrad. Res. 3 (2020), 1–25*.
 
 ## Travels
