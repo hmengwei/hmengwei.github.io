@@ -19,15 +19,15 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 - <a href="https://journals.calstate.edu/pump/article/view/2256" target="_blank">Presentations of Diagram Categories</a>, *PUMP J. Undergrad. Res. 3 (2020), 1–25*.
 
 ## Travels
+- 10/18-10/19/2025, <a href="https://sites.google.com/view/jhutopology/fall-2025?authuser=0" target="_blank" style="color : black;"><u>AMS Central Sectional Special Session on Geometry, Representation Theory and Noncommutative Algebra</u></a>, St. Louis University
+12/15-12/19/2025, <a href="https://calendar.google.com/calendar/u/0/embed?src=ss4ps8h03v62f1vhuf40c2j87o@group.calendar.google.com&ctz=America/New_York" target="_blank" style="color : black;"><u>Seattle Noncommutative Algebra Conference</u></a>, University of Washington
+
 <!----*Upcoming*-->
-- 09/30/25, <a href="https://sites.google.com/view/jhutopology/fall-2025?authuser=0" target="_blank" style="color : black;"><u>Topology Seminar</u></a>, Johns Hopkins University
-- 10/02-10/03/25, University of Texas at Austin
-- 10/06/25, <a href="https://calendar.google.com/calendar/u/0/embed?src=ss4ps8h03v62f1vhuf40c2j87o@group.calendar.google.com&ctz=America/New_York" target="_blank" style="color : black;"><u>Algebra Seminar</u></a>, University of Georgia
-<!----*10/18-10/19/2025, AMS Fall Central Sectional Meeting Special Session, St. Louis University*-->
-<!----*10/23/2025, <a href="https://sites.google.com/view/rtg-northeastern/gprt-seminar" style="color : black;"><u>GPRT Seminar</u></a>, Northeastern University*-->
 
 ## Talks
 <!---*Past*-->
+- Oct 2025, <a href="https://calendar.google.com/calendar/u/0/embed?src=ss4ps8h03v62f1vhuf40c2j87o@group.calendar.google.com&ctz=America/New_York" target="_blank" style="color : black;"><u>Algebra Seminar</u></a>, UGA
+- Sep 2025, <a href="https://sites.google.com/view/jhutopology/fall-2025?authuser=0" target="_blank" style="color : black;"><u>Topology Seminar</u></a>, JHU
 - Sep 2025, <a href="https://www.joshpollitz.com/algebra-seminar" target="_blank" style="color : black;">Algebra Seminar</a>, SU
 - Sep 2025, <a href="https://www.acsu.buffalo.edu/~achirvas/alg/algebraseminar.html" target="_blank" style="color : black;">Algebra Seminar</a>, UB
 - May 2025, <a href="https://sites.google.com/site/meeseongim/may_2025-conf-uwm?authuser=0" target="_blank" style="color : black;">AWM Research Symposium Special Session</a>, UW-Madison, <a href="talks/Kleinian_singularities_UW-Madison.pdf" target="">Slides</a>
