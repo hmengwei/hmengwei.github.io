@@ -19,8 +19,8 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 - <a href="https://journals.calstate.edu/pump/article/view/2256" target="_blank">Presentations of Diagram Categories</a>, *PUMP J. Undergrad. Res. 3 (2020), 1–25*.
 
 ## Travels
-- 10/18-10/19/2025, AMS Fall Central Sectional<a href="https://www.ams.org/meetings/sectional/2322_program_ss29.html#title" target="_blank" style="color : black;"><u>Special Session on Geometry, Representation Theory and Noncommutative Algebra</u></a>, St. Louis University
-12/15-12/19/2025, <a href="https://sites.google.com/uw.edu/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;"><u>Seattle Noncommutative Algebra Conference</u></a>, University of Washington
+- 10/18-10/19/2025, <a href="https://www.ams.org/meetings/sectional/2322_program_ss29.html#title" target="_blank" style="color : black;"><u>AMS Fall Central Sectional Special Session</u></a>, St. Louis University <!----*Special Session on Geometry, Representation Theory and Noncommutative Algebra*-->
+- 12/15-12/19/2025, <a href="https://sites.google.com/uw.edu/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;"><u>Seattle Noncommutative Algebra Conference</u></a>, University of Washington
 
 <!----*Upcoming*-->
 
