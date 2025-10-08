@@ -26,8 +26,8 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 
 ## Talks
 <!---*Past*-->
-- Oct 2025, <a href="https://calendar.google.com/calendar/u/0/embed?src=ss4ps8h03v62f1vhuf40c2j87o@group.calendar.google.com&ctz=America/New_York" target="_blank" style="color : black;"><u>Algebra Seminar</a>, UGA
-- Sep 2025, <a href="https://sites.google.com/view/jhutopology/fall-2025?authuser=0" target="_blank" style="color : black;">Topology Seminar</u></a>, JHU
+- Oct 2025, <a href="https://calendar.google.com/calendar/u/0/embed?src=ss4ps8h03v62f1vhuf40c2j87o@group.calendar.google.com&ctz=America/New_York" target="_blank" style="color : black;">Algebra Seminar</a>, UGA
+- Sep 2025, <a href="https://sites.google.com/view/jhutopology/fall-2025?authuser=0" target="_blank" style="color : black;">Topology Seminar</a>, JHU
 - Sep 2025, <a href="https://www.joshpollitz.com/algebra-seminar" target="_blank" style="color : black;">Algebra Seminar</a>, SU
 - Sep 2025, <a href="https://www.acsu.buffalo.edu/~achirvas/alg/algebraseminar.html" target="_blank" style="color : black;">Algebra Seminar</a>, UB
 - May 2025, <a href="https://sites.google.com/site/meeseongim/may_2025-conf-uwm?authuser=0" target="_blank" style="color : black;">AWM Research Symposium Special Session</a>, UW-Madison, <a href="talks/Kleinian_singularities_UW-Madison.pdf" target="">Slides</a>
