@@ -21,7 +21,7 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 ## Travels
 - 10/18-10/19/2025, <a href="https://www.ams.org/meetings/sectional/2322_program_ss29.html#title" target="_blank" style="color : black;"><u>AMS Fall Central Sectional Special Session</u></a>, St. Louis University <!----*Special Session on Geometry, Representation Theory and Noncommutative Algebra*-->
 - 11/24/2025, <a href="https://www.umass.edu/mathematics-statistics/events/mengwei-hu-yale-university-tba" target="_blank" style="color : black;"><u>Representation Theory Seminar</u></a>, UMass Amherst
-- 12/15-12/19/2025, <a href="https://sites.google.com/uw.edu/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;"><u>Seattle Noncommutative Algebra Conference</u></a>, University of Washington
+- 12/15-12/19/2025, <a href="https://sites.google.com/view/seattlencalgebra2025/participants?authuser=0" target="_blank" style="color : black;"><u>Seattle Noncommutative Algebra Conference</u></a>, University of Washington
 
 
 <!----*Upcoming*-->
