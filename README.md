@@ -5,7 +5,7 @@
 
 Hello! I am a math graduate student at <a href="https://math.yale.edu/" target="_blank">Yale</a>. My advisor is Prof. <a href="https://gauss.math.yale.edu/~il282/" target="_blank">Ivan Losev</a>.
 
-I work in geometric representation theory and symplectic geometry, with emphasis on modules over quantizations and involutions of quiver varieties.
+I work in geometric representation theory and symplectic geometry, with an emphasis on modules over quantizations and involutions of quiver varieties.
 
 Email: m.hu@yale.edu
 
