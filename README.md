@@ -20,10 +20,12 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 
 ## Travels
 
-- 11/24/2025, <a href="https://www.umass.edu/mathematics-statistics/events/mengwei-hu-yale-university-tba" target="_blank" style="color : black;"><u>Representation Theory Seminar</u></a>, UMass Amherst
-- 12/15-12/19/2025, <a href="https://sites.google.com/view/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;"><u>Seattle Noncommutative Algebra Conference</u></a>, University of Washington
-<!---*- 03/28/-03/29/2026, AMS Southeastern Sectional, <a href="https://www.ams.org/meetings/sectional/2329_program_ss2.html#title" target="_blank" style="color : black;">Special Session on algebraic, combinatorial and geometric aspects of representation theory</a>, Georgia Southern University*-->
-<!---*- 03/17/2026, <a href="" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, Notre Dame*-->
+- November 24, 2025, <a href="https://www.umass.edu/mathematics-statistics/events/mengwei-hu-yale-university-tba" target="_blank" style="color : black;"><u>Representation Theory Seminar</u></a>, UMass Amherst
+- December 9, 2025, <a href="https://www.imperial.ac.uk/pure-mathematics/seminars/geometry-algebra-and-theoretical-physics-seminars/" target="_blank" style="color : black;"><u>Geometry, Algebra, and Theoretical Physics Seminars</u></a>, Imperial College London <!----*Zoom*-->
+- December 15-19, 2025, <a href="https://sites.google.com/view/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;"><u>Seattle Noncommutative Algebra Conference</u></a>, University of Washington
+- March 17, 2026, <a href="https://math.nd.edu/events/" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, University of Notre Dame
+- March 28-29, 2026, <a href="https://www.ams.org/meetings/sectional/2329_program_ss2.html#title" target="_blank" style="color : black;">AMS Southeastern Sectional Special Session</u></a>, Georgia Southern University
+<!---*on algebraic, combinatorial and geometric aspects of representation theory*-->
 
 <!----*Upcoming*-->
 
