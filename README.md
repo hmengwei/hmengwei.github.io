@@ -20,11 +20,11 @@ Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
 
 ## Travels
 
-- 2025 November 24, <a href="https://www.umass.edu/mathematics-statistics/events/mengwei-hu-yale-university-tba" target="_blank" style="color : black;"><u>Representation Theory Seminar</u></a>, UMass Amherst
-- 2025 December 9, <a href="https://www.imperial.ac.uk/pure-mathematics/seminars/geometry-algebra-and-theoretical-physics-seminars/" target="_blank" style="color : black;"><u>Geometry, Algebra, and Theoretical Physics Seminars</u></a>, Imperial College London <!----*Zoom*-->
-- 2025 December 15-19, <a href="https://sites.google.com/view/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;"><u>Seattle Noncommutative Algebra Conference</u></a>, University of Washington
-- 2026 March 17, <a href="https://math.nd.edu/events/" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, University of Notre Dame
-- 2026 March 28-29, <a href="https://www.ams.org/meetings/sectional/2329_program_ss2.html#title" target="_blank" style="color : black;"><u>AMS Southeastern Sectional Special Session</u></a>, Georgia Southern University
+- November 24, <a href="https://www.umass.edu/mathematics-statistics/events/mengwei-hu-yale-university-tba" target="_blank" style="color : black;"><u>Representation Theory Seminar</u></a>, UMass Amherst
+- December 9, <a href="https://www.imperial.ac.uk/pure-mathematics/seminars/geometry-algebra-and-theoretical-physics-seminars/" target="_blank" style="color : black;"><u>Geometry, Algebra, and Theoretical Physics Seminars</u></a>, Imperial College London <!----*Zoom*-->
+- December 15-19, <a href="https://sites.google.com/view/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;"><u>Seattle Noncommutative Algebra Conference</u></a>, University of Washington
+<!---*- 2026 March 17, <a href="https://math.nd.edu/events/" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, University of Notre Dame*-->
+<!---*- 2026 March 28-29, <a href="https://www.ams.org/meetings/sectional/2329_program_ss2.html#title" target="_blank" style="color : black;"><u>AMS Southeastern Sectional Special Session</u></a>, Georgia Southern University*-->
 <!---*on algebraic, combinatorial and geometric aspects of representation theory*-->
 
 <!----*Upcoming*-->
