@@ -9,7 +9,7 @@ I work in geometric representation theory and symplectic geometry, with an empha
 
 Email: m.hu@yale.edu
 
-Here is my <a href="CV/CV_Mengwei.pdf">**CV**</a>.
+Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 
 **\* I am on the job market in Fall 2025.**
 <!---<br/><br/>-->
