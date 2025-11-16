@@ -7,7 +7,7 @@ Hello! I am a math graduate student at <a href="https://math.yale.edu/" target="
 
 I work in geometric representation theory and symplectic geometry, with an emphasis on modules over quantizations and involutions of quiver varieties.
 
-Email: m.hu@yale.edu **|** Office: KT 817
+Email: m.hu@yale.edu | Office: KT 817
 
 Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 
