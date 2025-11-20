@@ -15,7 +15,7 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 <!---<br/><br/>-->
 
 ## Research
-- <a href="https://arxiv.org/abs/2504.08717" target="_blank">On Certain Lagrangian Subvarieties in Minimal Resolutions of Kleinian Singularities</a>, submitted, arXiv: 2504.08717, <a href="talks/Kleinian_singularities_poster.pdf" target="">poster</a>
+- <a href="https://arxiv.org/abs/2504.08717" target="_blank">On Certain Lagrangian Subvarieties in Minimal Resolutions of Kleinian Singularities</a>, submitted, arXiv: 2504.08717, <a href="talks/Kleinian_singularities_poster.pdf" target="">poster</a>, <a href="https://www.youtube.com/watch?v=qmt49iaIwBQ" target="">talk</a>
 - <a href="https://journals.calstate.edu/pump/article/view/2256" target="_blank">Presentations of Diagram Categories</a>, *PUMP J. Undergrad. Res. 3 (2020), 1–25*.
 
 ## Travels
@@ -25,7 +25,8 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 - December 15-19, <a href="https://sites.google.com/view/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;"><u>Seattle Noncommutative Algebra Conference</u></a>, University of Washington
 <!---*- 2026 March 17, <a href="https://math.nd.edu/events/" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, University of Notre Dame*-->
 <!---*- 2026 March 28-29, <a href="https://www.ams.org/meetings/sectional/2329_program_ss2.html#title" target="_blank" style="color : black;"><u>AMS Southeastern Sectional Special Session</u></a>, Georgia Southern University*-->
-<!---*on algebraic, combinatorial and geometric aspects of representation theory*-->
+<!---*Special Session on algebraic, combinatorial and geometric aspects of representation theory*-->
+
 
 <!----*Upcoming*-->
 
