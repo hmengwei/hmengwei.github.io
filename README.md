@@ -19,8 +19,6 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 - <a href="https://journals.calstate.edu/pump/article/view/2256" target="_blank">Presentations of Diagram Categories</a>. *PUMP J. Undergrad. Res. 3 (2020), 1–25*.
 
 ## Travels
-
-- November 24, <a href="https://www.umass.edu/mathematics-statistics/events/mengwei-hu-yale-certain-lagrangian-subvarieties-minimal-resolutions-kleinian-singularities" target="_blank" style="color : black;"><u>Representation Theory Seminar</u></a>, UMass Amherst
 - December 9, <a href="https://www.imperial.ac.uk/pure-mathematics/seminars/geometry-algebra-and-theoretical-physics-seminars/" target="_blank" style="color : black;"><u>Geometry, Algebra, and Theoretical Physics Seminars</u></a> (Zoom), Imperial College London <!----*Zoom*-->
 - December 15-19, <a href="https://sites.google.com/view/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;"><u>Seattle Noncommutative Algebra Conference</u></a>, University of Washington
 <!---*- 2026 March 17, <a href="https://math.nd.edu/events/" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, University of Notre Dame*-->
@@ -32,6 +30,7 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 
 ## Talks
 <!---*Past*-->
+- Nov 24, <a href="https://www.umass.edu/mathematics-statistics/events/mengwei-hu-yale-certain-lagrangian-subvarieties-minimal-resolutions-kleinian-singularities" target="_blank" style="color : black;"><u>Representation Theory Seminar</a>, UMass Amherst
 - Oct 2025, <a href="https://www.ams.org/meetings/sectional/2322_program_ss29.html#title" target="_blank" style="color : black;">AMS Fall Central Sectional Special Session</a>, SLU <!----*Special Session on Geometry, Representation Theory and Noncommutative Algebra*-->
 - Oct 2025, <a href="https://calendar.google.com/calendar/u/0/embed?src=ss4ps8h03v62f1vhuf40c2j87o@group.calendar.google.com&ctz=America/New_York" target="_blank" style="color : black;">Algebra Seminar</a>, UGA
 - Sep 2025, <a href="https://sites.google.com/view/jhutopology/fall-2025?authuser=0" target="_blank" style="color : black;">Topology Seminar</a>, JHU
