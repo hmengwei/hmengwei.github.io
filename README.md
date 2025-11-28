@@ -30,7 +30,7 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 
 ## Talks
 <!---*Past*-->
-- Nov 24, <a href="https://www.umass.edu/mathematics-statistics/events/mengwei-hu-yale-certain-lagrangian-subvarieties-minimal-resolutions-kleinian-singularities" target="_blank" style="color : black;">Representation Theory Seminar</a>, UMass Amherst
+- Nov 2025, <a href="https://www.umass.edu/mathematics-statistics/events/mengwei-hu-yale-certain-lagrangian-subvarieties-minimal-resolutions-kleinian-singularities" target="_blank" style="color : black;">Representation Theory Seminar</a>, UMass Amherst
 - Oct 2025, <a href="https://www.ams.org/meetings/sectional/2322_program_ss29.html#title" target="_blank" style="color : black;">AMS Fall Central Sectional Special Session</a>, SLU <!----*Special Session on Geometry, Representation Theory and Noncommutative Algebra*-->
 - Oct 2025, <a href="https://calendar.google.com/calendar/u/0/embed?src=ss4ps8h03v62f1vhuf40c2j87o@group.calendar.google.com&ctz=America/New_York" target="_blank" style="color : black;">Algebra Seminar</a>, UGA
 - Sep 2025, <a href="https://sites.google.com/view/jhutopology/fall-2025?authuser=0" target="_blank" style="color : black;">Topology Seminar</a>, JHU
