@@ -21,7 +21,7 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 ## Travels
 - January 29, <a href="https://sites.google.com/view/rtg-northeastern/gprt-seminar" target="_blank" style="color : black;"><u>Geometry, Physics, and Representation Theory Seminar</u></a>, Northeastern University
 - March 17, <a href="https://math.nd.edu/events/" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, University of Notre Dame
-- March 28-29, <a href="https://www.ams.org/meetings/sectional/2329_program_ss2.html#title" target="_blank" style="color : black;"><u>AMS Southeastern Sectional Special Session</u></a>, Georgia Southern University
+- March 28-29, <a href="https://www.ams.org/meetings/sectional/2329_program_ss2.html#title" target="_blank" style="color : black;"><u>AMS Southeastern Sectional Special Session</u></a>, Georgia Southern University, Armstrong Campus
 <!---*Special Session on algebraic, combinatorial and geometric aspects of representation theory*-->
 
 
