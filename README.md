@@ -30,7 +30,7 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 
 ## Talks
 <!---*Past*-->
-- Dec 2025, <a href="https://sites.google.com/view/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;">Seattle Noncommutative Algebra Conference</a>, University of Washington
+- Dec 2025, <a href="https://sites.google.com/view/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;">Seattle Noncommutative Algebra Conference</a>, University of Washington, <a href="talks/Kleinian_singularities_SNAC_Dec 2025.pdf">Slides</a>
 - Dec 2025, <a href="https://www.imperial.ac.uk/pure-mathematics/seminars/geometry-algebra-and-theoretical-physics-seminars/" target="_blank" style="color : black;">Geometry, Algebra, and Theoretical Physics Seminars</a> (Zoom), Imperial College London
 - Nov 2025, <a href="https://www.umass.edu/mathematics-statistics/events/mengwei-hu-yale-certain-lagrangian-subvarieties-minimal-resolutions-kleinian-singularities" target="_blank" style="color : black;">Representation Theory Seminar</a>, UMass Amherst
 - Oct 2025, <a href="https://www.ams.org/meetings/sectional/2322_program_ss29.html#title" target="_blank" style="color : black;">AMS Fall Central Sectional Special Session</a>, SLU <!----*Special Session on Geometry, Representation Theory and Noncommutative Algebra*-->
