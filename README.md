@@ -19,7 +19,6 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 - <a href="https://journals.calstate.edu/pump/article/view/2256" target="_blank">Presentations of Diagram Categories</a>. *PUMP J. Undergrad. Res. 3 (2020), 1–25*.
 
 ## Travels
-- January 29, <a href="https://sites.google.com/view/rtg-northeastern/gprt-seminar" target="_blank" style="color : black;"><u>Geometry, Physics, and Representation Theory Seminar</u></a>, Northeastern University
 - March 17, <a href="https://math.nd.edu/events/" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, University of Notre Dame
 - March 28-29, <a href="https://www.ams.org/meetings/sectional/2329_special.html" target="_blank" style="color : black;"><u>AMS Southeastern Sectional Special Sessions</u></a>, Georgia Southern University, Armstrong Campus <!---*Special Session on algebraic, combinatorial and geometric aspects of representation theory*--><!---Special Session on Categorical, Homological and Combinatorial Methods in Noncommutative Algebra*-->
 - April 28, <a href="https://www.math.lsu.edu/calendar?selecttime=all_future&selectevent=All" target="_blank" style="color : black;"><u>Algebra and Number Theory Seminar</u></a>, Louisiana State University
@@ -30,6 +29,7 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 
 ## Talks
 <!---*Past*-->
+- Jan 2026, <a href="https://sites.google.com/view/rtg-northeastern/gprt-seminar" target="_blank" style="color : black;"><u>Geometry, Physics, and Representation Theory Seminar</u></a>, Northeastern University
 - Dec 2025, <a href="https://sites.google.com/view/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;">Seattle Noncommutative Algebra Conference</a>, University of Washington, <a href="talks/Kleinian singularities_SNAC_Dec_2025.pdf">Slides</a>
 - Dec 2025, <a href="https://www.imperial.ac.uk/pure-mathematics/seminars/geometry-algebra-and-theoretical-physics-seminars/" target="_blank" style="color : black;">Geometry, Algebra, and Theoretical Physics Seminars</a> (Zoom), Imperial College London
 - Nov 2025, <a href="https://www.umass.edu/mathematics-statistics/events/mengwei-hu-yale-certain-lagrangian-subvarieties-minimal-resolutions-kleinian-singularities" target="_blank" style="color : black;">Representation Theory Seminar</a>, UMass Amherst
