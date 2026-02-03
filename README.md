@@ -22,7 +22,7 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 - March 17, <a href="https://math.nd.edu/events/" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, University of Notre Dame
 - March 28-29, <a href="https://www.ams.org/meetings/sectional/2329_special.html" target="_blank" style="color : black;"><u>AMS Southeastern Sectional Special Sessions</u></a>, Georgia Southern University, Armstrong Campus <!---*Special Session on algebraic, combinatorial and geometric aspects of representation theory*--><!---Special Session on Categorical, Homological and Combinatorial Methods in Noncommutative Algebra*-->
 - April 28, <a href="https://www.math.lsu.edu/calendar?selecttime=all_future&selectevent=All" target="_blank" style="color : black;"><u>Algebra and Number Theory Seminar</u></a>, Louisiana State University
-<!---July 2026, Summer Collabortors Program, Institute for Advanced Study, Princeton, NJ*-->
+<!---July 2026, Summer Collaborators Program, Institute for Advanced Study, Princeton, NJ*-->
 
 
 <!----*Upcoming*-->
