@@ -11,7 +11,7 @@ Email: m.hu@yale.edu. Office: KT 817.
 
 Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 
-**\* I am on the job market in Fall 2025.**
+<!---**\* I am on the job market in Fall 2025.**>-->
 <!---<br/><br/>-->
 
 ## Research
