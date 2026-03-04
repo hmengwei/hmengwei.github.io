@@ -3,7 +3,7 @@
 <img class="photo-img" src="./pictures/picture.png" alt="My Image">
 </div>
 
-Hello! I am a math graduate student at <a href="https://math.yale.edu/" target="_blank">Yale</a>. My advisor is Prof. <a href="https://gauss.math.yale.edu/~il282/" target="_blank">Ivan Losev</a>.
+Hello! I am a math graduate student at <a href="https://math.yale.edu/" target="_blank">Yale</a>. My advisor is Prof. <a href="https://ivanloseu.github.io/" target="_blank">Ivan Losev</a>.
 
 I work in geometric representation theory and symplectic geometry, with an emphasis on modules over quantizations and involutions of quiver varieties.
 
@@ -20,7 +20,7 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 
 ## Travels
 - March 17, <a href="https://math.nd.edu/events/" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, University of Notre Dame
-- March 28-29, AMS Southeastern Sectional Special Sessions, <a href="https://www.ams.org/meetings/sectional/2329_program_ss2.html#title" target="_blank" style="color : black;"><u>Talk 1</u></a>, <a href="https://www.ams.org/meetings/sectional/2329_program_ss25.html#title" target="_blank" style="color : black;"><u>Talk 2</u></a>, Georgia Southern University, Armstrong Campus
+- March 28-29, AMS Southeastern Sectional Special Sessions, Georgia Southern University, Armstrong Campus (<a href="https://www.ams.org/meetings/sectional/2329_program_ss2.html#title" target="_blank" style="color : black;"><u>Talk 1</u></a>, <a href="https://www.ams.org/meetings/sectional/2329_program_ss25.html#title" target="_blank" style="color : black;"><u>Talk 2</u></a>)
 - April 28, <a href="https://www.math.lsu.edu/calendar?selecttime=all_future&selectevent=All" target="_blank" style="color : black;"><u>Algebra and Number Theory Seminar</u></a>, Louisiana State University
 <!---July 2026, Summer Collaborators Program, Institute for Advanced Study, Princeton, NJ*-->
 
