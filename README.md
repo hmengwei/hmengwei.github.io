@@ -19,7 +19,7 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 - <a href="https://journals.calstate.edu/pump/article/view/2256" target="_blank">Presentations of Diagram Categories</a>. *PUMP J. Undergrad. Res. 3 (2020), 1–25*.
 
 ## Travels
-- March 17, <a href="https://math.nd.edu/events/" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, University of Notre Dame
+- March 17, <a href="https://math.nd.edu/events/2026/03/17/cluster-algebras-seminar-mengwei-hu-yale-university/" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, University of Notre Dame
 - March 28-29, AMS Southeastern Sectional Special Sessions, Georgia Southern University, Armstrong Campus (<a href="https://www.ams.org/meetings/sectional/2329_program_ss2.html#title" target="_blank" style="color : black;"><u>Talk 1</u></a>, <a href="https://www.ams.org/meetings/sectional/2329_program_ss25.html#title" target="_blank" style="color : black;"><u>Talk 2</u></a>)
 - April 28, <a href="https://www.math.lsu.edu/calendar?selecttime=all_future&selectevent=All" target="_blank" style="color : black;"><u>Algebra and Number Theory Seminar</u></a>, Louisiana State University
 - July 10-23, Institute for Advanced Study, Princeton, NJ
