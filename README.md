@@ -29,7 +29,7 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 <!----*Upcoming*-->
 
 <details markdown="1">
-  <summary><kbd><h3>Past Talks</h3></kbd></summary>
+  <summary><h3>Past Talks</h3></summary>
 
 - Jan 2026, <a href="https://sites.google.com/view/rtg-northeastern/gprt-seminar" target="_blank" style="color : black;">Geometry, Physics, and Representation Theory Seminar</a>, Northeastern University
 - Dec 2025, <a href="https://sites.google.com/view/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;">Seattle Noncommutative Algebra Conference</a>, University of Washington, <a href="talks/Kleinian singularities_SNAC_Dec_2025.pdf">Slides</a>
