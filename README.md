@@ -30,7 +30,7 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 
 <details>
   <summary><kbd><h3>Past Talks</h3></kbd></summary>
-  
+
 - Jan 2026, <a href="https://sites.google.com/view/rtg-northeastern/gprt-seminar" target="_blank" style="color : black;">Geometry, Physics, and Representation Theory Seminar</a>, Northeastern University
 - Dec 2025, <a href="https://sites.google.com/view/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;">Seattle Noncommutative Algebra Conference</a>, University of Washington, <a href="talks/Kleinian singularities_SNAC_Dec_2025.pdf">Slides</a>
 - Dec 2025, <a href="https://www.imperial.ac.uk/pure-mathematics/seminars/geometry-algebra-and-theoretical-physics-seminars/" target="_blank" style="color : black;">Geometry, Algebra, and Theoretical Physics Seminars</a> (Zoom), Imperial College London
@@ -49,4 +49,5 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 - Oct 2024, AMS Fall Eastern Sectional Meeting Special Session, UAlbany
 - Sep 2024, Women in Mathematics in New England, <!---*student talk and graduate school panelist*,--> Smith College
 - May 2024, Representation Theory and Related Geometry: Progress and Prospects, <!---*contributed talk*,--> UGA
+  
 </details>
