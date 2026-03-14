@@ -26,7 +26,7 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
   <!---<a href="https://www.ias.edu/math/summercollaborators" target="_blank" style="color : black;"><u>Summer Collaborators Program</u></a>--->
 - July 2026, <a href="https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/home" target="_blank" style="color : black;"><u>International Congress of Mathematicians</u></a>, Philadelphia, PA
 
-<!----*Upcoming*--><h3></h3>
+<!----*Upcoming*-->
 
 <details markdown="1">
   <summary><h3 style="display: inline;">Past Talks</h3></summary>
