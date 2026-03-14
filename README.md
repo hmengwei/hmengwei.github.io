@@ -18,19 +18,20 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 - <a href="https://arxiv.org/abs/2504.08717" target="_blank">On Certain Lagrangian Subvarieties in Minimal Resolutions of Kleinian Singularities</a>, submitted, arXiv: 2504.08717, <a href="talks/Kleinian_singularities_poster.pdf" target="">poster</a>, <a href="https://www.youtube.com/watch?v=qmt49iaIwBQ" target="blank">talk</a>.
 - <a href="https://journals.calstate.edu/pump/article/view/2256" target="_blank">Presentations of Diagram Categories</a>. *PUMP J. Undergrad. Res. 3 (2020), 1–25*.
 
-## Travels
-- March 17, <a href="https://math.nd.edu/events/2026/03/17/cluster-algebras-seminar-mengwei-hu-yale-university/" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, University of Notre Dame
-- March 28-29, AMS Southeastern Sectional Special Sessions, Georgia Southern University, Armstrong Campus (<a href="https://www.ams.org/meetings/sectional/2329_program_ss2.html#title" target="_blank" style="color : black;"><u>Talk 1</u></a>, <a href="https://www.ams.org/meetings/sectional/2329_program_ss25.html#title" target="_blank" style="color : black;"><u>Talk 2</u></a>)
-- April 28, <a href="https://www.math.lsu.edu/calendar?selecttime=all_future&selectevent=All" target="_blank" style="color : black;"><u>Algebra and Number Theory Seminar</u></a>, Louisiana State University
-- July 10-23, Institute for Advanced Study, Princeton, NJ
+## Upcoming Events
+- March 2026, <a href="https://math.nd.edu/events/2026/03/17/cluster-algebras-seminar-mengwei-hu-yale-university/" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, University of Notre Dame
+- March 2026, AMS Southeastern Sectional Special Sessions, Georgia Southern University, Armstrong Campus (<a href="https://www.ams.org/meetings/sectional/2329_program_ss2.html#title" target="_blank" style="color : black;"><u>Talk 1</u></a>, <a href="https://www.ams.org/meetings/sectional/2329_program_ss25.html#title" target="_blank" style="color : black;"><u>Talk 2</u></a>)
+- April 2026, <a href="https://www.math.lsu.edu/calendar?selecttime=all_future&selectevent=All" target="_blank" style="color : black;"><u>Algebra and Number Theory Seminar</u></a>, Louisiana State University
+- July 2026, Institute for Advanced Study, Princeton, NJ
   <!---<a href="https://www.ias.edu/math/summercollaborators" target="_blank" style="color : black;"><u>Summer Collaborators Program</u></a>--->
-- July 23-30, <a href="https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/home" target="_blank" style="color : black;"><u>International Congress of Mathematicians</u></a>, Philadelphia, PA
+- July 2026, <a href="https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/home" target="_blank" style="color : black;"><u>International Congress of Mathematicians</u></a>, Philadelphia, PA
 
 
 <!----*Upcoming*-->
 
-## Talks
-<!---*Past*-->
+<details>
+  <summary><h2>Past Talks</h2></summary>
+  
 - Jan 2026, <a href="https://sites.google.com/view/rtg-northeastern/gprt-seminar" target="_blank" style="color : black;">Geometry, Physics, and Representation Theory Seminar</a>, Northeastern University
 - Dec 2025, <a href="https://sites.google.com/view/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;">Seattle Noncommutative Algebra Conference</a>, University of Washington, <a href="talks/Kleinian singularities_SNAC_Dec_2025.pdf">Slides</a>
 - Dec 2025, <a href="https://www.imperial.ac.uk/pure-mathematics/seminars/geometry-algebra-and-theoretical-physics-seminars/" target="_blank" style="color : black;">Geometry, Algebra, and Theoretical Physics Seminars</a> (Zoom), Imperial College London
@@ -49,3 +50,4 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 - Oct 2024, AMS Fall Eastern Sectional Meeting Special Session, UAlbany
 - Sep 2024, Women in Mathematics in New England, <!---*student talk and graduate school panelist*,--> Smith College
 - May 2024, Representation Theory and Related Geometry: Progress and Prospects, <!---*contributed talk*,--> UGA
+</details>
