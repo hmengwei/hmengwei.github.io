@@ -28,7 +28,7 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 
 <!----*Upcoming*-->
 
-<details>
+<details markdown="1">
   <summary><kbd><h3>Past Talks</h3></kbd></summary>
 
 - Jan 2026, <a href="https://sites.google.com/view/rtg-northeastern/gprt-seminar" target="_blank" style="color : black;">Geometry, Physics, and Representation Theory Seminar</a>, Northeastern University
