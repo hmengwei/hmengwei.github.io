@@ -14,11 +14,11 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 <!---***I am on the job market in Fall 2025.**-->
 <!---<br/><br/>-->
 
-## Research
+### Research
 - <a href="https://arxiv.org/abs/2504.08717" target="_blank">On Certain Lagrangian Subvarieties in Minimal Resolutions of Kleinian Singularities</a>, submitted, arXiv: 2504.08717, <a href="talks/Kleinian_singularities_poster.pdf" target="">poster</a>, <a href="https://www.youtube.com/watch?v=qmt49iaIwBQ" target="blank">talk</a>.
 - <a href="https://journals.calstate.edu/pump/article/view/2256" target="_blank">Presentations of Diagram Categories</a>. *PUMP J. Undergrad. Res. 3 (2020), 1–25*.
 
-## Upcoming Events
+### Upcoming Events
 - March 2026, <a href="https://math.nd.edu/events/2026/03/17/cluster-algebras-seminar-mengwei-hu-yale-university/" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, University of Notre Dame
 - March 2026, AMS Southeastern Sectional Special Sessions, Georgia Southern University, Armstrong Campus (<a href="https://www.ams.org/meetings/sectional/2329_program_ss2.html#title" target="_blank" style="color : black;"><u>Talk 1</u></a>, <a href="https://www.ams.org/meetings/sectional/2329_program_ss25.html#title" target="_blank" style="color : black;"><u>Talk 2</u></a>)
 - April 2026, <a href="https://www.math.lsu.edu/calendar?selecttime=all_future&selectevent=All" target="_blank" style="color : black;"><u>Algebra and Number Theory Seminar</u></a>, Louisiana State University
@@ -30,7 +30,7 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 <!----*Upcoming*-->
 
 <details>
-  <summary><h2>Past Talks</h2></summary>
+<summary><h3>Past Talks</h3></summary>
   
 - Jan 2026, <a href="https://sites.google.com/view/rtg-northeastern/gprt-seminar" target="_blank" style="color : black;">Geometry, Physics, and Representation Theory Seminar</a>, Northeastern University
 - Dec 2025, <a href="https://sites.google.com/view/seattlencalgebra2025/home?authuser=0" target="_blank" style="color : black;">Seattle Noncommutative Algebra Conference</a>, University of Washington, <a href="talks/Kleinian singularities_SNAC_Dec_2025.pdf">Slides</a>
