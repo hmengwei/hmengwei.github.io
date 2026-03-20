@@ -22,8 +22,7 @@ Here is my <a href="CV/Mengwei Hu_CV.pdf">**CV**</a>.
 - March 2026, <a href="https://math.nd.edu/events/2026/03/17/cluster-algebras-seminar-mengwei-hu-yale-university/" target="_blank" style="color : black;"><u>Cluster Algebras and Lie Theory Seminar</u></a>, University of Notre Dame
 - March 2026, AMS Southeastern Sectional Special Sessions, Georgia Southern University (<a href="https://www.ams.org/meetings/sectional/2329_program_ss2.html#title" target="_blank" style="color : black;"><u>Talk 1</u></a>, <a href="https://www.ams.org/meetings/sectional/2329_program_ss25.html#title" target="_blank" style="color : black;"><u>Talk 2</u></a>)
 - April 2026, <a href="https://www.math.lsu.edu/calendar?selecttime=all_future&selectevent=All" target="_blank" style="color : black;"><u>Algebra and Number Theory Seminar</u></a>, Louisiana State University
-- July 2026, Institute for Advanced Study, Princeton, NJ
-  <!---<a href="https://www.ias.edu/math/summercollaborators" target="_blank" style="color : black;"><u>Summer Collaborators Program</u></a>--->
+- July 2026, <a href="https://www.ias.edu/math/summercollaborators" target="_blank" style="color : black;"><u>Summer Collaborators Program</u></a>, Institute for Advanced Study
 - July 2026, <a href="https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/home" target="_blank" style="color : black;"><u>International Congress of Mathematicians</u></a>, Philadelphia, PA
 
 <!----*Upcoming*-->
