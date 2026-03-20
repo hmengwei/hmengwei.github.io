@@ -1,10 +1,10 @@
-.header {
-  display: flex;
-  align-items: center;
-  gap: 20px;
+.photo-div {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 10px;
 }
 
 .photo-img {
-  width: 200px;
+  width: 200px;   /* adjust size as needed */
   height: auto;
 }
