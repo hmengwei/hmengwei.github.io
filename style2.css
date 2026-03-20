@@ -3,6 +3,6 @@ p{
 }
 
 .photo-div{
-  width: 165px;
-  float: right;
+  max-width: 200px;
+  height: auto;
 }
