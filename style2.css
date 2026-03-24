@@ -10,6 +10,7 @@
   height: auto;
 }
 
-body {
-  margin-left: 50px;
+.page {
+  max-width: 800px;
+  margin-left: 50px;   /* fixed start */
 }
