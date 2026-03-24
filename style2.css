@@ -9,3 +9,7 @@
   width: 180px;   /* adjust size as needed */
   height: auto;
 }
+
+body {
+  margin-left: 50px;
+}
